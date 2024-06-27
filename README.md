@@ -1,4 +1,4 @@
-# Linear-Regression--Boston-House-Value-PredictioN
+# Linear-Regression--Boston-House-Value-Prediction
 
 
 This project demonstrates the use of linear regression to predict the median value of owner-occupied homes in the Boston area using various predictors.
